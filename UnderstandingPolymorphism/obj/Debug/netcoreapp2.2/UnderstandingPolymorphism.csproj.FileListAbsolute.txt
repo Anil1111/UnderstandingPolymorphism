@@ -1,0 +1,10 @@
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\bin\Debug\netcoreapp2.2\UnderstandingPolymorphism.deps.json
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\bin\Debug\netcoreapp2.2\UnderstandingPolymorphism.runtimeconfig.json
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\bin\Debug\netcoreapp2.2\UnderstandingPolymorphism.runtimeconfig.dev.json
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\bin\Debug\netcoreapp2.2\UnderstandingPolymorphism.dll
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\bin\Debug\netcoreapp2.2\UnderstandingPolymorphism.pdb
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\obj\Debug\netcoreapp2.2\UnderstandingPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\obj\Debug\netcoreapp2.2\UnderstandingPolymorphism.AssemblyInfoInputs.cache
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\obj\Debug\netcoreapp2.2\UnderstandingPolymorphism.AssemblyInfo.cs
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\obj\Debug\netcoreapp2.2\UnderstandingPolymorphism.dll
+C:\Users\Viridae\source\repos\UnderstandingPolymorphism\UnderstandingPolymorphism\obj\Debug\netcoreapp2.2\UnderstandingPolymorphism.pdb
